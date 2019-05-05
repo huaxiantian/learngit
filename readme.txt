@@ -1,2 +1,2 @@
 Git is a version control system.
-Git is free software.ni ge shabi
+Git is free software.ni ge 
